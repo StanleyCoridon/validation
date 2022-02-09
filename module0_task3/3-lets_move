@@ -1,4 +1,4 @@
 #!/bin/sh
 mkdir module1_task0
-mv ^[A-Z] module1_task0
+mv [A-Z]* module1_task0
 
