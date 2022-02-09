@@ -1,4 +1,4 @@
 #!/bin/sh
-touch \*\\'"DevOps"\'\\*$\?\*\*\*\*\*:)
+touch "\*\\'"DevOps"\'\\*$\?\*\*\*\*\*:)"
 echo 'Hello DevOps\n' > \*\\'"DevOps"\'\\*$\?\*\*\*\*\*:)
 
