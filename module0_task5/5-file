@@ -1,5 +1,5 @@
-#!/bin/sh
-set -eu -o pipefail
-touch "\*\\'"DevOps"\'\\*$\?\*\*\*\*\*:)"
-echo 'Hello DevOps\n' > "\*\\'"DevOps"\'\\*$\?\*\*\*\*\*:)"
+#!/bin/bash
 
+set -eu -o pipefail
+
+echo 'Hello DevOps' > "\*\\\'\"DevOps\"\'\\\*$\?\*\*\*\*\*:)"
