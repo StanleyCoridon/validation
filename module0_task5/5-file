@@ -1,4 +1,5 @@
 #!/bin/sh
-cat "\*\\'"DevOps"\'\\*$\?\*\*\*\*\*:)"
-printf 'Hello DevOps\n' > "\*\\'"DevOps"\'\\*$\?\*\*\*\*\*:)"
+set -eu -o pipefail
+touch "\*\\'"DevOps"\'\\*$\?\*\*\*\*\*:)"
+echo 'Hello DevOps\n' > "\*\\'"DevOps"\'\\*$\?\*\*\*\*\*:)"
 
