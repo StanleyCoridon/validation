@@ -1,3 +1,2 @@
 #!/bin/sh
-#printenv
-set TERM*
+printenv | grep "TERM*"
