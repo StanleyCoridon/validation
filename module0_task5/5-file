@@ -1,4 +1,4 @@
 #!/bin/sh
 cat "\*\\'"DevOps"\'\\*$\?\*\*\*\*\*:)"
-echo 'Hello DevOps\n' > "\*\\'"DevOps"\'\\*$\?\*\*\*\*\*:)"
+printf 'Hello DevOps\n' > "\*\\'"DevOps"\'\\*$\?\*\*\*\*\*:)"
 
