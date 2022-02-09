@@ -1,0 +1,7 @@
+#!/bin/sh
+c=0
+while [ $c < 10 ]
+do
+	echo "DevOps"
+	(( c++ ))
+done
